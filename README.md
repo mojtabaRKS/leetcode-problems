@@ -8,3 +8,4 @@ problems :
 2. roman to integer
 3. happy number
 4. Kth largest elemnt in array
+5. two sum of array elements
