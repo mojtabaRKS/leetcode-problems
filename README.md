@@ -9,3 +9,4 @@ problems :
 3. happy number
 4. Kth largest elemnt in array
 5. two sum of array elements
+6. palindrome number
